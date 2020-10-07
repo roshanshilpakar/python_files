@@ -1,5 +1,5 @@
 import feedparser
-from player import notification
+from plyer import notification
 import time
 
 def parseFeed():
